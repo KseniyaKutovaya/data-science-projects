@@ -16,7 +16,7 @@
 - Алгоритм: Logistic Regression  
 - Точность: 91.8%
 - Технологии: pandas, scikit-learn
-- Файл: [digit_recognizer.ipynb](digit_recognizer.ipynb) - *в процессе добавления*
+- Файл: [digit_recognizer.ipynb](digit_recognizer.ipynb) - 
 
 ## 🛠 Установка
 ```bash
